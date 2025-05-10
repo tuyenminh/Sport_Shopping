@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using Sports_store.Repository;
 
 namespace Sports_store.Models
 {
@@ -16,5 +17,10 @@ namespace Sports_store.Models
 
 
         public int Status { get; set; }
+
+        //public static implicit operator CategoryModel(CategoyModel v)
+        //{
+        //    throw new NotImplementedException();
+        //}
     }
 }

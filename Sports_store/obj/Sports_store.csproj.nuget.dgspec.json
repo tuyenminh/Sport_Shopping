@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\project_asp.net\\Sport_Shopping\\Sports_store\\Sports_store.csproj": {}
+    "D:\\Do An Ca Nhan\\.NET project\\sports_shopping\\Sports_store\\Sports_store\\Sports_store\\Sports_store.csproj": {}
   },
   "projects": {
-    "D:\\project_asp.net\\Sport_Shopping\\Sports_store\\Sports_store.csproj": {
+    "D:\\Do An Ca Nhan\\.NET project\\sports_shopping\\Sports_store\\Sports_store\\Sports_store\\Sports_store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project_asp.net\\Sport_Shopping\\Sports_store\\Sports_store.csproj",
+        "projectUniqueName": "D:\\Do An Ca Nhan\\.NET project\\sports_shopping\\Sports_store\\Sports_store\\Sports_store\\Sports_store.csproj",
         "projectName": "Sports_store",
-        "projectPath": "D:\\project_asp.net\\Sport_Shopping\\Sports_store\\Sports_store.csproj",
-        "packagesPath": "C:\\Users\\kieut\\.nuget\\packages\\",
-        "outputPath": "D:\\project_asp.net\\Sport_Shopping\\Sports_store\\obj\\",
+        "projectPath": "D:\\Do An Ca Nhan\\.NET project\\sports_shopping\\Sports_store\\Sports_store\\Sports_store\\Sports_store.csproj",
+        "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
+        "outputPath": "D:\\Do An Ca Nhan\\.NET project\\sports_shopping\\Sports_store\\Sports_store\\Sports_store\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kieut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
